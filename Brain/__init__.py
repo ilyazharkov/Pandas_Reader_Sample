@@ -1,1 +1,1 @@
-__all__ = ['Gyrus.py']
+__all__ = [('Gyrus.py', 'NNModules.py', 'UnitTest.py')]
